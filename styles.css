@@ -404,7 +404,7 @@ h3 {
     color: #F8E6CA;
     /* Very light orange watermark */
     line-height: 1;
-    margin-bottom: -1rem;
+    margin-bottom: -2.5rem;
     position: relative;
     z-index: 0;
 }
